@@ -1,0 +1,1 @@
+This is apart of The Odin Project curriculum. This is the Google homepage. Search engine not enabled.
